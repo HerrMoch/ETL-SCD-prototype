@@ -1,0 +1,501 @@
+datum,kunde_code,name,vorname,firma,plz,ort,land
+01.01.20,1000,Weiß,Elian,,60322,Frankfurt am Main,Deutschland
+01.01.20,1001,Krüger,Jolina,,76857,Waldrohrbach,Deutschland
+01.01.20,1002,Weber,Tessa,Weber Tessa KG,94365,Parkstetten,Deutschland
+01.01.20,1003,Fuchs,Mattis,Fuchs Mattis Ltd.,54636,Ließem,Deutschland
+01.01.20,1004,Friedrich,Svea,,96179,Rattelsdorf,Deutschland
+01.01.20,1005,Schäfer,Jolina,,49751,Hüven,Deutschland
+01.01.20,1006,Hoffmann,Laura,,75382,Althengstett,Deutschland
+01.01.20,1007,Weber,Mona,,24649,Wiemersdorf,Deutschland
+01.01.20,1008,Krause,Thilo,,55469,Pleizenhausen,Deutschland
+01.01.20,1009,Möller,Michelle,,17309,Zerrenthin,Deutschland
+01.01.20,1010,Vogel,Bella,Vogel Bella GbR,30916,Isernhagen,Deutschland
+01.01.20,1011,Fischer,Niklas,,23948,Damshagen,Deutschland
+01.01.20,1012,Bauer,Nicolas,,82269,Geltendorf,Deutschland
+01.01.20,1013,Schulz,Marlene,,23968,Barnekow,Deutschland
+01.01.20,1014,Hofmann,Ali,,99198,Udestedt,Deutschland
+01.01.20,1015,Hahn,Linda,,67117,Limburgerhof,Deutschland
+01.01.20,1016,Peters,Leana,,08233,Treuen,Deutschland
+01.01.20,1017,Zimmermann,Arian,,67059,Ludwigshafen am Rhein,Deutschland
+01.01.20,1018,Keller,Aaliyah,,49536,Lienen,Deutschland
+01.01.20,1019,Koch,Rosa,,73087,Zell unter Aichelberg,Deutschland
+01.01.20,1020,Kaiser,David,,91728,Gnotzheim,Deutschland
+01.01.20,1021,Huber,Larissa,,19374,Lewitzrand,Deutschland
+01.01.20,1022,Werner,Matthias,,59469,Ense,Deutschland
+01.01.20,1023,Köhler,Finnley,,27576,Bremerhaven,Deutschland
+01.01.20,1024,Weiß,Nisa,,86830,Schwabmünchen,Deutschland
+01.01.20,1025,Frank,Kilian,,68163,Mannheim,Deutschland
+01.01.20,1026,Schmitz,Johann,,97794,Rieneck,Deutschland
+01.01.20,1027,Becker,Emilia,,66957,Schweix,Deutschland
+01.01.20,1028,Scholz,Tilda,,29459,Clenze,Deutschland
+01.01.20,1029,Fischer,Malou,,86899,Landsberg am Lech,Deutschland
+01.01.20,1030,Köhler,Jolina,,87662,Osterzell,Deutschland
+01.01.20,1031,Hofmann,Sebastian,,99986,Oppershausen,Deutschland
+01.01.20,1032,Schubert,Leonard,,98743,Gräfenthal,Deutschland
+01.01.20,1033,Hofmann,Adrian,,38116,Braunschweig,Deutschland
+01.01.20,1034,Hoffmann,Liana,,99897,Tambach-Dietharz,Deutschland
+01.01.20,1035,Hoffmann,Ronja,,27499,Hamburg,Deutschland
+01.01.20,1036,Meier,Ferdinand,,24395,Niesgrau,Deutschland
+01.01.20,1037,Schmid,Neo,,76889,Dörrenbach,Deutschland
+01.01.20,1038,Scholz,Jonas,,55606,Otzweiler,Deutschland
+01.01.20,1039,Peters,Benno,,98639,Wasungen,Deutschland
+01.01.20,1040,Peters,Rosa,,18258,Vorbeck,Deutschland
+01.01.20,1041,Köhler,Olivia,,24616,Hasenkrug,Deutschland
+01.01.20,1042,Schneider,Hannah,,79224,Umkirch,Deutschland
+01.01.20,1043,Schulz,Paul,,02779,Großschönau,Deutschland
+01.01.20,1044,Winkler,Malik,,66578,Schiffweiler,Deutschland
+01.01.20,1045,König,Silas,,46359,Heiden,Deutschland
+01.01.20,1046,Meier,Amalia,,2953,Bad Muskau - Mužakow,Deutschland
+01.01.20,1047,Wolf,David,,22962,Siek,Deutschland
+01.01.20,1048,Herrmann,Jonte,,04567,Kitzscher,Deutschland
+01.01.20,1049,Kaiser,Martha,,73108,Gammelshausen,Deutschland
+01.01.20,1050,Wagner,Mathea,,79297,Winden im Elztal,Deutschland
+01.01.20,1051,Lange,Oskar,Lange Oskar GmbH,36323,Grebenau,Deutschland
+01.01.20,1052,Braun,Colin,,66802,Überherrn,Deutschland
+01.01.20,1053,Schmitt,Valeria,,66606,Sankt Wendel,Deutschland
+01.01.20,1054,Frank,Theodor,,21770,Mittelstenahe,Deutschland
+01.01.20,1055,Günther,Nikita,,66887,Sankt Julian,Deutschland
+01.01.20,1056,Scholz,Tobias,,35686,Dillenburg,Deutschland
+01.01.20,1057,Krüger,Lene,,69250,Schönau,Deutschland
+01.01.20,1058,Jung,Edda,,84562,Mettenheim,Deutschland
+01.01.20,1059,Winkler,Leonard,,21335,Lüneburg,Deutschland
+01.01.20,1060,Hahn,Sebastian,,18586,Sellin,Deutschland
+01.01.20,1061,Friedrich,Hannes,,67256,Weisenheim am Sand,Deutschland
+01.01.20,1062,Keller,Levin,Keller Levin GbR,54668,Niederweis,Deutschland
+01.01.20,1063,Lang,Jason,,82152,Planegg,Deutschland
+01.01.20,1064,Becker,Manuel,,53506,Ahrbrück,Deutschland
+01.01.20,1065,Wolf,Amelie,,54608,Mützenich,Deutschland
+01.01.20,1066,Weiß,Zoe,,27374,Visselhövede,Deutschland
+01.01.20,1067,Walter,Felicitas,,21737,Wischhafen,Deutschland
+01.01.20,1068,Neumann,Clea,,97488,Stadtlauringen,Deutschland
+01.01.20,1069,Schulze,Luna,,53534,Wiesemscheid,Deutschland
+01.01.20,1070,Winkler,Charlie,,49413,Dinklage,Deutschland
+01.01.20,1071,Wolf,Silas,,27324,Hassel (Weser),Deutschland
+01.01.20,1072,Schmitt,Julian,,74928,Hüffenhardt,Deutschland
+01.01.20,1073,Scholz,Magdalena,,54552,Kradenbach,Deutschland
+01.01.20,1074,Klein,Mathea,,97657,Sandberg,Deutschland
+01.01.20,1075,Kaiser,Philipp,,23970,Benz,Deutschland
+01.01.20,1076,Zimmermann,Cataleya,,04105,Leipzig,Deutschland
+01.01.20,1077,Meyer,Aria,,04347,Leipzig,Deutschland
+01.01.20,1078,Becker,Henriette,,23881,Bälau,Deutschland
+01.01.20,1079,Braun,Julian,,25566,Rethwisch,Deutschland
+01.01.20,1080,Müller,Mila,,88416,Erlenmoos,Deutschland
+01.01.20,1081,Huber,Zoe,,76889,Dörrenbach,Deutschland
+01.01.20,1082,Schulz,Lara,,76473,Iffezheim,Deutschland
+01.01.20,1083,Friedrich,Leon,Friedrich Leon GbR,13127,Berlin,Deutschland
+01.01.20,1084,Fischer,Enna,,21368,Boitze,Deutschland
+01.01.20,1085,Klein,Josephine,Klein Josephine GmbH & Co. KG,17337,Groß Luckow,Deutschland
+01.01.20,1086,Vogel,Jannes,,70188,Stuttgart,Deutschland
+01.01.20,1087,Mayer,Lena,,73773,Aichwald,Deutschland
+01.01.20,1088,Schmidt,Bennet,,66482,Zweibrücken,Deutschland
+01.01.20,1089,Peters,Thomas,,66894,Martinshöhe,Deutschland
+01.01.20,1090,Schubert,Henriette,,88214,Ravensburg,Deutschland
+01.01.20,1091,Schmidt,Carlo,,49080,Osnabrück,Deutschland
+01.01.20,1092,Schulz,Moritz,Schulz Moritz GbR,54655,Wilsecker,Deutschland
+01.01.20,1093,Schmid,Carolina,,56412,Daubach,Deutschland
+01.01.20,1094,Huber,Hannah,,14548,Schwielowsee,Deutschland
+01.01.20,1095,Schubert,Milana,,87766,Memmingerberg,Deutschland
+01.01.20,1096,König,Raphael,,66894,Martinshöhe,Deutschland
+01.01.20,1097,Weber,Fiete,,27333,Schweringen,Deutschland
+01.01.20,1098,Werner,Lina,,74321,Bietigheim-Bissingen,Deutschland
+01.01.20,1099,Vogel,Martha,,33428,Harsewinkel,Deutschland
+01.01.20,1100,Winkler,Lene,,53498,Gönnersdorf,Deutschland
+01.01.20,1101,Schmitt,Lion,,72379,Hechingen,Deutschland
+01.01.20,1102,Hahn,Lennard,,54597,Kinzenburg,Deutschland
+01.01.20,1103,Frank,Frieda,,94133,Röhrnbach,Deutschland
+01.01.20,1104,Vogel,Elina,,67742,Homberg,Deutschland
+01.01.20,1105,Kaiser,Nikita,,85104,Pförring,Deutschland
+01.01.20,1106,Schröder,Smilla,,19065,Gneven,Deutschland
+01.01.20,1107,Schröder,Nathan,Schröder Nathan e. V.,31073,Delligsen,Deutschland
+01.01.20,1108,Hartmann,Malia,,79793,Wutöschingen,Deutschland
+01.01.20,1109,Hofmann,Frieda,,25337,Seeth-Ekholt,Deutschland
+01.01.20,1110,Schwarz,Luca,,07589,Lederhose,Deutschland
+01.01.20,1111,Köhler,Merle,,63073,Offenbach am Main,Deutschland
+01.01.20,1112,Schmitz,Frieda,,15377,Buckow,Deutschland
+01.01.20,1113,Schulze,Arne,,55278,Selzen,Deutschland
+01.01.20,1114,Peters,Rebecca,,09366,Stollberg/Erzgebirge,Deutschland
+01.01.20,1115,Herrmann,Emma,Herrmann Emma GmbH & Co. KG,19065,Gneven,Deutschland
+01.01.20,1116,Walter,Chiara,,56814,Wirfus,Deutschland
+01.01.20,1117,König,Malte,,56295,Lonnig,Deutschland
+01.01.20,1118,Hoffmann,Frieda,,55568,Lauschied,Deutschland
+01.01.20,1119,Schmidt,Liana,,63877,Sailauf,Deutschland
+01.01.20,1120,Becker,Elina,,85456,Wartenberg,Deutschland
+01.01.20,1121,Schröder,Mathea,,01471,Radeburg,Deutschland
+01.01.20,1122,Bauer,Julia,,54426,Schönberg,Deutschland
+01.01.20,1123,Schröder,Lisa,,21395,Tespe,Deutschland
+01.01.20,1124,Lehmann,Adrian,,78554,Denkingen,Deutschland
+01.01.20,1125,Schmitz,Elian,,17309,Koblentz,Deutschland
+01.01.20,1126,Zimmermann,Justus,,63067,Offenbach am Main,Deutschland
+01.01.20,1127,Peters,Philipp,,19230,Pätow-Steegen,Deutschland
+01.01.20,1128,Berger,Constantin,,14167,Berlin,Deutschland
+01.01.20,1129,Krause,Felix,,14778,Golzow,Deutschland
+01.01.20,1130,Meyer,Larissa,,55490,Henau,Deutschland
+01.01.20,1131,Weber,Emil,,97258,Oberickelsheim,Deutschland
+01.01.20,1132,Zimmermann,Cataleya,,24582,Bissee,Deutschland
+01.01.20,1133,Schröder,Vincent,,04442,Zwenkau,Deutschland
+01.01.20,1134,Walter,Marlon,,46354,Südlohn,Deutschland
+01.01.20,1135,Hoffmann,Emil,,87660,Irsee,Deutschland
+01.01.20,1136,Hartmann,Pauline,,07806,Dreba,Deutschland
+01.01.20,1137,Schmitt,Bruno,,22965,Todendorf,Deutschland
+01.01.20,1138,Wolf,Leano,,56584,Thalhausen,Deutschland
+01.01.20,1139,Winkler,Malik,,74653,Ingelfingen,Deutschland
+01.01.20,1140,Schmitt,Hailey,,39524,Kamern,Deutschland
+01.01.20,1141,Berger,Aria,,54597,Lascheid,Deutschland
+01.01.20,1142,Koch,Tobias,,76597,Loffenau,Deutschland
+01.01.20,1143,Müller,Florian,Müller Florian Ltd.,17329,Krackow,Deutschland
+01.01.20,1144,Hartmann,Alisa,,91737,Ornbau,Deutschland
+01.01.20,1145,Schubert,Ferdinand,,56379,Singhofen,Deutschland
+01.01.20,1146,Mayer,Svea,Mayer Svea Ltd.,99955,Mittelsömmern,Deutschland
+01.01.20,1147,Müller,Hedi,,18528,Rappin,Deutschland
+01.01.20,1148,Schulz,Carolin,,18184,Thulendorf,Deutschland
+01.01.20,1149,Richter,Pia,,86316,Friedberg,Deutschland
+01.01.20,1150,Winkler,Miriam,,54589,Stadtkyll,Deutschland
+01.01.20,1151,Vogel,Lennard,,97350,Mainbernheim,Deutschland
+01.01.20,1152,Huber,Nick,,82285,Hattenhofen,Deutschland
+01.01.20,1153,Kaiser,Isabell,,67731,Otterbach,Deutschland
+01.01.20,1154,Kaiser,Dominic,,24855,Bollingstedt,Deutschland
+01.01.20,1155,Schmitz,Charlie,,97490,Poppenhausen,Deutschland
+01.01.20,1156,Schmitz,Carl,,54570,Wallenborn,Deutschland
+01.01.20,1157,Wagner,Willi,,92447,Schwarzhofen,Deutschland
+01.01.20,1158,Walter,Jamie,,54655,Usch,Deutschland
+01.01.20,1159,Hoffmann,Josephine,,52066,Aachen,Deutschland
+01.01.20,1160,Peters,Carolina,,67591,Hohen-Sülzen,Deutschland
+01.01.20,1161,König,Ylvie,,74535,Mainhardt,Deutschland
+01.01.20,1162,Meier,Aurora,,83088,Kiefersfelden,Deutschland
+01.01.20,1163,Möller,Charlie,,63065,Offenbach am Main,Deutschland
+01.01.20,1164,Walter,Noel,,84558,Kirchweidach,Deutschland
+01.01.20,1165,Lehmann,Romy,,12619,Berlin,Deutschland
+01.01.20,1166,Lange,Carolin,,29393,Groß Oesingen,Deutschland
+01.01.20,1167,Scholz,Michael,,23758,Oldenburg in Holstein,Deutschland
+01.01.20,1168,Weber,Emilio,,57610,Ingelbach,Deutschland
+01.01.20,1169,Schmidt,Hedi,,96120,Bischberg,Deutschland
+01.01.20,1170,Fischer,Marla,,07952,Pausa-Mühltroff,Deutschland
+01.01.20,1171,Fischer,Anni,,02977,Hoyerswerda - Wojerecy,Deutschland
+01.01.20,1172,Maier,Nisa,,56291,Norath,Deutschland
+01.01.20,1173,Schneider,Sina,,57635,Werkhausen,Deutschland
+01.01.20,1174,Weber,Jannik,,45145,Essen,Deutschland
+01.01.20,1175,Schmid,Philipp,,66583,Spiesen-Elversberg,Deutschland
+01.01.20,1176,Schmidt,Valentina,,88178,Heimenkirch,Deutschland
+01.01.20,1177,Fischer,Antonia,,28355,Bremen,Deutschland
+01.01.20,1178,Huber,Amalia,,45279,Essen,Deutschland
+01.01.20,1179,Keller,Celine,,71723,Großbottwar,Deutschland
+01.01.20,1180,Günther,Nele,,85669,Pastetten,Deutschland
+01.01.20,1181,Hartmann,Emilio,,91734,Mitteleschenbach,Deutschland
+01.01.20,1182,Schmidt,Rosalie,,24598,Boostedt,Deutschland
+01.01.20,1183,Krüger,Antonia,,65479,Raunheim,Deutschland
+01.01.20,1184,Weber,Sofia,,59065,Hamm,Deutschland
+01.01.20,1185,Müller,Nicolas,Müller Nicolas e. V.,34560,Fritzlar,Deutschland
+01.01.20,1186,Lange,Elian,,01776,Hermsdorf/Erzgebirge,Deutschland
+01.01.20,1187,Hahn,Henry,,87767,Niederrieden,Deutschland
+01.01.20,1188,Krüger,Maja,,22089,Hamburg,Deutschland
+01.01.20,1189,Günther,Elias,,76835,Weyher in der Pfalz,Deutschland
+01.01.20,1190,Schulz,Malia,,20095,Hamburg,Deutschland
+01.01.20,1191,Schwarz,Leonardo,,74348,Lauffen am Neckar,Deutschland
+01.01.20,1192,Günther,Charlotte,,24638,Schmalensee,Deutschland
+01.01.20,1193,Herrmann,Laura,,72294,Grömbach,Deutschland
+01.01.20,1194,Scholz,Luis,Scholz Luis e. V.,25557,Bendorf,Deutschland
+01.01.20,1195,Möller,Aylin,,06484,Ditfurt,Deutschland
+01.01.20,1196,Koch,Emilia,,12347,Berlin,Deutschland
+01.01.20,1197,Neumann,Evelyn,,24628,Hartenholm,Deutschland
+01.01.20,1198,Richter,Jamie,,90480,Nürnberg,Deutschland
+01.01.20,1199,Winkler,Mira,,17367,Eggesin,Deutschland
+01.01.20,1200,Zimmermann,Malia,,19322,Rühstädt,Deutschland
+01.01.20,1201,Friedrich,Lennox,,97944,Boxberg,Deutschland
+01.01.20,1202,Lang,Clara,,24863,Börm,Deutschland
+01.01.20,1203,Koch,Luis,,56357,Ruppertshofen,Deutschland
+01.01.20,1204,Neumann,Till,,09481,Scheibenberg,Deutschland
+01.01.20,1205,Fischer,Milana,Fischer Milana GbR,51143,Köln,Deutschland
+01.01.20,1206,Schäfer,Sebastian,Schäfer Sebastian GmbH,99988,Südeichsfeld,Deutschland
+01.01.20,1207,Jung,Frederik,,76833,Böchingen,Deutschland
+01.01.20,1208,Meier,Lionel,,66271,Kleinblittersdorf,Deutschland
+01.01.20,1209,Becker,Tim,,53115,Bonn,Deutschland
+01.01.20,1210,Schwarz,Tessa,,04626,Schmölln,Deutschland
+01.01.20,1211,Hartmann,Maxim,,91341,Röttenbach,Deutschland
+01.01.20,1212,Meier,Lennox,,57520,Neunkhausen,Deutschland
+01.01.20,1213,Neumann,Fenja,,41066,Mönchengladbach,Deutschland
+01.01.20,1214,Hahn,Ole,,46236,Bottrop,Deutschland
+01.01.20,1215,Schäfer,Samuel,,40724,Hilden,Deutschland
+01.01.20,1216,Schäfer,Fiona,,67829,Reiffelbach,Deutschland
+01.01.20,1217,Winkler,Aurora,,82439,Schlehdorf,Deutschland
+01.01.20,1218,Richter,Gustav,,17039,Staven,Deutschland
+01.01.20,1219,Huber,Carla,Huber Carla KG,61267,Neu-Anspach,Deutschland
+01.01.20,1220,Herrmann,Celina,,18528,Buschvitz,Deutschland
+01.01.20,1221,Schulze,Bela,,54570,Kalenborn-Scheuern,Deutschland
+01.01.20,1222,Braun,Mona,,79271,Simonswald,Deutschland
+01.01.20,1223,Köhler,Aiden,,86911,Dießen am Ammersee,Deutschland
+01.01.20,1224,Peters,Antonia,,45964,Gladbeck,Deutschland
+01.01.20,1225,Zimmermann,Emma,,37318,Mackenrode,Deutschland
+01.01.20,1226,Fischer,Manuel,,66793,Saarwellingen,Deutschland
+01.01.20,1227,Walter,Lynn,,74080,Heilbronn,Deutschland
+01.01.20,1228,Braun,Ella,,23560,Lübeck,Deutschland
+01.01.20,1229,Lehmann,Linda,,85077,Manching,Deutschland
+01.01.20,1230,Hahn,Nathan,,78532,Tuttlingen,Deutschland
+01.01.20,1231,Schäfer,Alicia,,21274,Undeloh,Deutschland
+01.01.20,1232,Berger,Ilyas,,49401,Damme,Deutschland
+01.01.20,1233,Krüger,Lennard,,86853,Langerringen,Deutschland
+01.01.20,1234,Werner,Hannah,,38170,Winnigstedt,Deutschland
+01.01.20,1235,Lehmann,Lucy,,82390,Eberfing,Deutschland
+01.01.20,1236,Bauer,Lias,,56814,Faid,Deutschland
+01.01.20,1237,Weiß,Benjamin,,21493,Elmenhorst,Deutschland
+01.01.20,1238,Winkler,Paula,,72285,Pfalzgrafenweiler,Deutschland
+01.01.20,1239,Wagner,Paulina,,53539,Borler,Deutschland
+01.01.20,1240,Möller,Mathilda,,55432,Damscheid,Deutschland
+01.01.20,1241,Schmidt,Florian,,93426,Roding,Deutschland
+01.01.20,1242,Winkler,Diana,,47057,Duisburg,Deutschland
+01.01.20,1243,Neumann,Ida,,14913,Niedergörsdorf,Deutschland
+01.01.20,1244,Weber,Nina,,03172,Schenkendöbern,Deutschland
+01.01.20,1245,Hofmann,Arne,,86682,Genderkingen,Deutschland
+01.01.20,1246,Schubert,Paula,,67278,Bockenheim an der Weinstraße,Deutschland
+01.01.20,1247,Weiß,Phil,,66887,Jettenbach,Deutschland
+01.01.20,1248,Schmidt,Merle,,67598,Gundersheim,Deutschland
+01.01.20,1249,Köhler,Selina,,36391,Sinntal,Deutschland
+01.01.20,1250,Jung,Rosa,,25548,Rosdorf,Deutschland
+01.01.20,1251,Herrmann,Maria,,54422,Züsch,Deutschland
+01.01.20,1252,Frank,Michelle,,54673,Berscheid,Deutschland
+01.01.20,1253,Weber,Nils,,72517,Sigmaringendorf,Deutschland
+01.01.20,1254,Werner,Miran,,53560,Vettelschoß,Deutschland
+01.01.20,1255,Schmitt,Fenja,,73249,Wernau (Neckar),Deutschland
+01.01.20,1256,Meier,Jonathan,,95346,Stadtsteinach,Deutschland
+01.01.20,1257,Werner,Jolina,,49685,Emstek,Deutschland
+01.01.20,1258,Berger,Anastasia,,19217,Schlagsdorf,Deutschland
+01.01.20,1259,Schmid,Emil,,23845,Wakendorf I,Deutschland
+01.01.20,1260,Meyer,Pia,,17039,Sponholz,Deutschland
+01.01.20,1261,Wolf,Enna,,07607,Eisenberg,Deutschland
+01.01.20,1262,Neumann,Jona,,23896,Poggensee,Deutschland
+01.01.20,1263,Weiß,Ruby,Weiß Ruby GmbH & Co. KG,54344,Kenn,Deutschland
+01.01.20,1264,Meyer,Clea,,6132,Halle (Saale),Deutschland
+01.01.20,1265,Lange,Milana,,88167,Stiefenhofen,Deutschland
+01.01.20,1266,Peters,Joshua,,51645,Gummersbach,Deutschland
+01.01.20,1267,Schwarz,Elli,,09117,Chemnitz,Deutschland
+01.01.20,1268,Keller,Leo,,07368,Remptendorf,Deutschland
+01.01.20,1269,Klein,Marlon,,74549,Wolpertshausen,Deutschland
+01.01.20,1270,Hartmann,Thea,,31867,Lauenau,Deutschland
+01.01.20,1271,Keller,Lotte,,79790,Küssaberg,Deutschland
+01.01.20,1272,Köhler,Samira,,99869,Tüttleben,Deutschland
+01.01.20,1273,Lang,Jonna,,55776,Ruschberg,Deutschland
+01.01.20,1274,Jung,Aylin,,87662,Kaltental,Deutschland
+01.01.20,1275,Kaiser,Emmi,,76767,Hagenbach,Deutschland
+01.01.20,1276,Lang,Levke,,19230,Bandenitz,Deutschland
+01.01.20,1277,Werner,Matti,,84183,Niederviehbach,Deutschland
+01.01.20,1278,Schmitt,Lennox,,65589,Hadamar,Deutschland
+01.01.20,1279,Hahn,Hilda,,78050,Villingen-Schwenningen,Deutschland
+01.01.20,1280,Winkler,Julie,,17089,Grischow,Deutschland
+01.01.20,1281,Schneider,Thomas,,25813,Südermarsch,Deutschland
+01.01.20,1282,Müller,Edda,,88639,Wald,Deutschland
+01.01.20,1283,Vogel,Eva,,02627,Radibor - Radwor,Deutschland
+01.01.20,1284,Werner,Jakob,,38302,Wolfenbüttel,Deutschland
+01.01.20,1285,Weber,Dominic,,56357,Buch,Deutschland
+01.01.20,1286,Schmidt,Oliver,Schmidt Oliver Ltd.,22956,Grönwohld,Deutschland
+01.01.20,1287,Schulz,Finja,,93195,Wolfsegg,Deutschland
+01.01.20,1288,Herrmann,Ylvie,,24220,Böhnhusen,Deutschland
+01.01.20,1289,Lehmann,Aurora,,77736,Zell am Harmersbach,Deutschland
+01.01.20,1290,Weiß,Maja,,07768,Bibra,Deutschland
+01.01.20,1291,Winkler,Carlo,,63927,Bürgstadt,Deutschland
+01.01.20,1292,Schneider,Leni,,96257,Redwitz a.d.Rodach,Deutschland
+01.01.20,1293,Vogel,Luana,,84567,Erlbach,Deutschland
+01.01.20,1294,Schneider,Leana,,65193,Wiesbaden,Deutschland
+01.01.20,1295,Zimmermann,Marc,,37318,Eichstruth,Deutschland
+01.01.20,1296,Hahn,Azra,,94166,Stubenberg,Deutschland
+01.01.20,1297,Hoffmann,Amalia,Hoffmann Amalia Ltd.,73540,Heubach,Deutschland
+01.01.20,1298,Schwarz,Julian,,16227,Eberswalde,Deutschland
+01.01.20,1299,Lange,Eddy,,24808,Jevenstedt,Deutschland
+01.01.20,1300,Jung,Lennox,,56412,Ruppach-Goldhausen,Deutschland
+01.01.20,1301,Bauer,Elian,,89362,Offingen,Deutschland
+01.01.20,1302,Berger,Jayden,,24994,Weesby,Deutschland
+01.01.20,1303,Krüger,Constantin,Krüger Constantin KG,55471,Reich,Deutschland
+01.01.20,1304,Hofmann,Leila,,25355,Barmstedt,Deutschland
+01.01.20,1305,Winkler,Chiara,,49779,Oberlangen,Deutschland
+01.01.20,1306,Schmidt,Luana,,76751,Jockgrim,Deutschland
+01.01.20,1307,Schubert,Martha,,67753,Hefersweiler,Deutschland
+01.01.20,1308,Wolf,Kian,Wolf Kian GmbH & Co. KG,83527,Haag in Oberbayern,Deutschland
+01.01.20,1309,Schmitt,Leano,,54673,Berkoth,Deutschland
+01.01.20,1310,Krause,Elisabeth,,89537,Hermaringen,Deutschland
+01.01.20,1311,Winkler,Miriam,,19374,Obere Warnow,Deutschland
+01.01.20,1312,Peters,Fabian,,99752,Kehmstedt,Deutschland
+01.01.20,1313,Möller,Mira,,14641,Retzow,Deutschland
+01.01.20,1314,Hoffmann,Valeria,,15907,Lübben (Spreewald),Deutschland
+01.01.20,1315,Weber,Nathan,,49599,Voltlage,Deutschland
+01.01.20,1316,Hahn,Bela,,54664,Preist,Deutschland
+01.01.20,1317,Neumann,Anastasia,,57632,Ziegenhain,Deutschland
+01.01.20,1318,Schröder,Maria,Schröder Maria GmbH,25548,Wittenbergen,Deutschland
+01.01.20,1319,Fischer,Vanessa,,65347,Eltville am Rhein,Deutschland
+01.01.20,1320,Wagner,Mats,,23758,Oldenburg in Holstein,Deutschland
+01.01.20,1321,Schäfer,Aaliyah,,15328,Golzow,Deutschland
+01.01.20,1322,Walter,Alva,,24399,Arnis,Deutschland
+01.01.20,1323,Fischer,Luisa,,94264,Langdorf,Deutschland
+01.01.20,1324,Hofmann,Ariana,,35117,Münchhausen,Deutschland
+01.01.20,1325,Schäfer,Ronja,,99338,Plaue,Deutschland
+01.01.20,1326,Kaiser,Milla,,21720,Grünendeich,Deutschland
+01.01.20,1327,Weber,Josephine,,24558,Henstedt-Ulzburg,Deutschland
+01.01.20,1328,Lang,Cataleya,,26892,Dörpen,Deutschland
+01.01.20,1329,Schröder,Milo,,19372,Lewitzrand,Deutschland
+01.01.20,1330,Schwarz,Alma,,19306,Neustadt-Glewe,Deutschland
+01.01.20,1331,König,Jana,,74706,Osterburken,Deutschland
+01.01.20,1332,Fuchs,Jan,,99510,Wiegendorf,Deutschland
+01.01.20,1333,Vogel,Carolina,Vogel Carolina GbR,26831,Bunde,Deutschland
+01.01.20,1334,Becker,Smilla,,55234,Biebelnheim,Deutschland
+01.01.20,1335,Lange,Emily,,97249,Eisingen,Deutschland
+01.01.20,1336,Frank,Damian,,24988,Oeversee,Deutschland
+01.01.20,1337,Meier,Joshua,,36460,Bad Salzungen,Deutschland
+01.01.20,1338,Schröder,Ludwig,,35037,Marburg,Deutschland
+01.01.20,1339,Schröder,Charlotte,,84434,Kirchberg,Deutschland
+01.01.20,1340,Wagner,Zoe,Wagner Zoe GbR,79379,Müllheim,Deutschland
+01.01.20,1341,Friedrich,John,,45549,Sprockhövel,Deutschland
+01.01.20,1342,Schubert,Thore,,29223,Celle,Deutschland
+01.01.20,1343,Schulz,Michelle,,23847,Steinhorst,Deutschland
+01.01.20,1344,Schubert,Noah,,88255,Baienfurt,Deutschland
+01.01.20,1345,Hartmann,Mathilda,,37318,Marth,Deutschland
+01.01.20,1346,Braun,Jason,,21077,Hamburg,Deutschland
+01.01.20,1347,Peters,Matthias,,26409,Wittmund,Deutschland
+01.01.20,1348,Krüger,Annelie,,96275,Marktzeuln,Deutschland
+01.01.20,1349,Keller,Melissa,,66957,Trulben,Deutschland
+01.01.20,1350,Schröder,Valeria,,15295,Wiesenau,Deutschland
+01.01.20,1351,Braun,Carlotta,,67728,Münchweiler an der Alsenz,Deutschland
+01.01.20,1352,Schmitz,Luca,,23843,Bad Oldesloe,Deutschland
+01.01.20,1353,Herrmann,Finnley,,86694,Niederschönenfeld,Deutschland
+01.01.20,1354,Möller,Malik,,71093,Weil im Schönbuch,Deutschland
+01.01.20,1355,Koch,Melina,,66583,Spiesen-Elversberg,Deutschland
+01.01.20,1356,Walter,Thomas,,71106,Magstadt,Deutschland
+01.01.20,1357,Herrmann,Ruby,,21368,Dahlem,Deutschland
+01.01.20,1358,Schubert,Leonie,Schubert Leonie KG,79761,Waldshut-Tiengen,Deutschland
+01.01.20,1359,Krause,Luke,,79276,Reute,Deutschland
+01.01.20,1360,Schmitt,Philipp,,24628,Hartenholm,Deutschland
+01.01.20,1361,Keller,Isabell,,38667,Clausthal-Zellerfeld,Deutschland
+01.01.20,1362,Schmitz,Benedikt,Schmitz Benedikt GmbH,01920,Panschwitz-Kuckau - Panćicy-Kukow,Deutschland
+01.01.20,1363,Lange,Nick,,88079,Kressbronn am Bodensee,Deutschland
+01.01.20,1364,Fuchs,Elin,,29410,Salzwedel,Deutschland
+01.01.20,1365,Hahn,Ilyas,,01612,Nünchritz,Deutschland
+01.01.20,1366,Klein,Mats,,01833,Dürrröhrsdorf-Dittersbach,Deutschland
+01.01.20,1367,Peters,Luis,,99102,Klettbach,Deutschland
+01.01.20,1368,Walter,Luke,,58454,Witten,Deutschland
+01.01.20,1369,Peters,Kian,,17209,Stuer,Deutschland
+01.01.20,1370,Meyer,Lennox,,53508,Mayschoß,Deutschland
+01.01.20,1371,Schulze,Levin,,49832,Thuine,Deutschland
+01.01.20,1372,Vogel,Arne,Vogel Arne GbR,26446,Friedeburg,Deutschland
+01.01.20,1373,Wagner,Jona,,29351,Eldingen,Deutschland
+01.01.20,1374,Winkler,Elif,,55444,Dörrebach,Deutschland
+01.01.20,1375,Jung,Liliana,Jung Liliana GmbH,54636,Sülm,Deutschland
+01.01.20,1376,Schubert,Ben,,23619,Heilshoop,Deutschland
+01.01.20,1377,Zimmermann,Smilla,,91083,Baiersdorf,Deutschland
+01.01.20,1378,Krause,Fabian,,23911,Kulpin,Deutschland
+01.01.20,1379,Walter,Richard,,66484,Schmitshausen,Deutschland
+01.01.20,1380,Kaiser,Ina,,67744,Kappeln,Deutschland
+01.01.20,1381,Lange,Alessio,,21224,Rosengarten,Deutschland
+01.01.20,1382,Scholz,Henriette,,67586,Hillesheim,Deutschland
+01.01.20,1383,Vogel,Maria,,92444,Rötz,Deutschland
+01.01.20,1384,Schröder,Lorena,,07745,Jena,Deutschland
+01.01.20,1385,Schneider,Marvin,,54673,Plascheid,Deutschland
+01.01.20,1386,Lange,Artur,,54662,Beilingen,Deutschland
+01.01.20,1387,Berger,Zoey,,49638,Nortrup,Deutschland
+01.01.20,1388,Schmitt,Frieda,,91486,Uehlfeld,Deutschland
+01.01.20,1389,Frank,Pia,Frank Pia Ltd.,04318,Leipzig,Deutschland
+01.01.20,1390,Fuchs,Willi,,79688,Hausen im Wiesental,Deutschland
+01.01.20,1391,Fuchs,Malia,,27474,Cuxhaven,Deutschland
+01.01.20,1392,Müller,Elena,,78359,Orsingen-Nenzingen,Deutschland
+01.01.20,1393,Hoffmann,Malina,,74257,Untereisesheim,Deutschland
+01.01.20,1394,Herrmann,Sophie,,48161,Münster,Deutschland
+01.01.20,1395,Maier,Luna,,99510,Wiegendorf,Deutschland
+01.01.20,1396,Werner,Hermine,,54441,Kirf,Deutschland
+01.01.20,1397,Krause,Chiara,,37647,Brevörde,Deutschland
+01.01.20,1398,Hofmann,Sina,,07743,Jena,Deutschland
+01.01.20,1399,Fuchs,Liana,,40882,Ratingen,Deutschland
+01.01.20,1400,Schulze,Piet,,55546,Tiefenthal,Deutschland
+01.01.20,1401,Klein,Jasper,,67319,Wattenheim,Deutschland
+01.01.20,1402,Schwarz,David,,55481,Todenroth,Deutschland
+01.01.20,1403,Schröder,Maja,,72175,Dornhan,Deutschland
+01.01.20,1404,Weiß,Annabell,,18574,Garz/Rügen,Deutschland
+01.01.20,1405,Hoffmann,Florian,,91094,Langensendelbach,Deutschland
+01.01.20,1406,Weber,Lasse,,18211,Retschow,Deutschland
+01.01.20,1407,Meyer,Aaron,,94559,Niederwinkling,Deutschland
+01.01.20,1408,Koch,Hedi,,54655,Wilsecker,Deutschland
+01.01.20,1409,Schmidt,Leopold,,27419,Kalbe,Deutschland
+01.01.20,1410,Klein,Toni,,97842,Karbach,Deutschland
+01.01.20,1411,Schubert,Thore,,37318,Lindewerra,Deutschland
+01.01.20,1412,Scholz,Larissa,,12167,Berlin,Deutschland
+01.01.20,1413,Richter,Leonie,,24217,Krummbek,Deutschland
+01.01.20,1414,Möller,Palina,,68169,Mannheim,Deutschland
+01.01.20,1415,Hoffmann,Amilia,,50676,Köln,Deutschland
+01.01.20,1416,Scholz,Lotta,,57072,Siegen,Deutschland
+01.01.20,1417,Bauer,Lorenz,,77709,Wolfach,Deutschland
+01.01.20,1418,Schulz,Benjamin,,57319,Bad Berleburg,Deutschland
+01.01.20,1419,Schulze,Jonte,,97828,Marktheidenfeld,Deutschland
+01.01.20,1420,Schäfer,Finn,,14554,Seddiner See,Deutschland
+01.01.20,1421,Weber,Maria,,97244,Bütthard,Deutschland
+01.01.20,1422,Herrmann,Elli,,24894,Twedt,Deutschland
+01.01.20,1423,Werner,Aaliyah,,95349,Thurnau,Deutschland
+01.01.20,1424,Krüger,Alina,,81379,München,Deutschland
+01.01.20,1425,Köhler,Ole,,24358,Hütten,Deutschland
+01.01.20,1426,Günther,Stella,,56348,Kestert,Deutschland
+01.01.20,1427,Meier,Palina,,18184,Thulendorf,Deutschland
+01.01.20,1428,Werner,Philipp,,88422,Bad Buchau,Deutschland
+01.01.20,1429,Hoffmann,Luise,,08107,Kirchberg,Deutschland
+01.01.20,1430,Lange,Cataleya,,67742,Lauterecken,Deutschland
+01.01.20,1431,Schulze,Joel,,55288,Udenheim,Deutschland
+01.01.20,1432,Schubert,Lenn,,14554,Seddiner See,Deutschland
+01.01.20,1433,Frank,Michelle,,86660,Tapfheim,Deutschland
+01.01.20,1434,Kaiser,Emilian,Kaiser Emilian GbR,67824,Feilbingert,Deutschland
+01.01.20,1435,Hofmann,Clea,,31699,Beckedorf,Deutschland
+01.01.20,1436,Krause,Charlotte,,84051,Essenbach,Deutschland
+01.01.20,1437,Peters,Charlotte,,25436,Neuendeich,Deutschland
+01.01.20,1438,Lange,Hugo,,78564,Wehingen,Deutschland
+01.01.20,1439,Meier,John,,55252,Wiesbaden,Deutschland
+01.01.20,1440,Schneider,Celina,,37318,Wüstheuterode,Deutschland
+01.01.20,1441,Becker,Melina,,65812,Bad Soden,Deutschland
+01.01.20,1442,Becker,Jonte,,57632,Ziegenhain,Deutschland
+01.01.20,1443,Möller,Leonardo,Möller Leonardo e. V.,55483,Unzenberg,Deutschland
+01.01.20,1444,Mayer,Willi,,59399,Olfen,Deutschland
+01.01.20,1445,Vogel,Martha,,79252,Stegen,Deutschland
+01.01.20,1446,König,Livia,,89584,Ehingen (Donau),Deutschland
+01.01.20,1447,Walter,Flora,,02733,Cunewalde,Deutschland
+01.01.20,1448,Schröder,Marla,,07381,Paska,Deutschland
+01.01.20,1449,Koch,Sina,,36404,Vacha,Deutschland
+01.01.20,1450,Bauer,Isabell,,55425,Waldalgesheim,Deutschland
+01.01.20,1451,Schulze,Franz,,8060,Zwickau,Deutschland
+01.01.20,1452,Müller,Frieda,,56858,Würrich,Deutschland
+01.01.20,1453,Koch,Lian,,19209,Perlin,Deutschland
+01.01.20,1454,Hofmann,Arian,,13439,Berlin,Deutschland
+01.01.20,1455,Schulz,Joshua,,36391,Sinntal,Deutschland
+01.01.20,1456,Schubert,Emily,,76835,Weyher in der Pfalz,Deutschland
+01.01.20,1457,Werner,Emely,,04749,Ostrau,Deutschland
+01.01.20,1458,Schmid,Willi,,98617,Utendorf,Deutschland
+01.01.20,1459,Walter,Annalena,,45879,Gelsenkirchen,Deutschland
+01.01.20,1460,Friedrich,Konrad,,86925,Fuchstal,Deutschland
+01.01.20,1461,Hartmann,Lars,,95694,Mehlmeisel,Deutschland
+01.01.20,1462,Zimmermann,Hugo,,82392,Habach,Deutschland
+01.01.20,1463,Wagner,Jason,,94365,Parkstetten,Deutschland
+01.01.20,1464,Richter,Hannes,,25782,Hövede,Deutschland
+01.01.20,1465,Hartmann,Finja,,67691,Hochspeyer,Deutschland
+01.01.20,1466,Koch,Hilda,,19376,Siggelkow,Deutschland
+01.01.20,1467,Weber,Pepe,,53534,Barweiler,Deutschland
+01.01.20,1468,Jung,Aria,,37133,Friedland,Deutschland
+01.01.20,1469,Meyer,Lena,,55758,Schmidthachenbach,Deutschland
+01.01.20,1470,Lehmann,Carolina,,08297,Zwönitz,Deutschland
+01.01.20,1471,Herrmann,Malte,,74928,Hüffenhardt,Deutschland
+01.01.20,1472,Schneider,Aiden,,03238,Gorden-Staupitz,Deutschland
+01.01.20,1473,Herrmann,Lio,,59077,Hamm,Deutschland
+01.01.20,1474,Schneider,Levin,,77972,Mahlberg,Deutschland
+01.01.20,1475,Neumann,Emilia,,66132,Saarbrücken,Deutschland
+01.01.20,1476,Scholz,Marvin,,97348,Willanzheim,Deutschland
+01.01.20,1477,Hoffmann,Colin,,66773,Schwalbach,Deutschland
+01.01.20,1478,Schulz,Emir,,29353,Ahnsbeck,Deutschland
+01.01.20,1479,Weber,Nora,,21720,Grünendeich,Deutschland
+01.01.20,1480,Wagner,Aurelia,,29342,Wienhausen,Deutschland
+01.01.20,1481,Meier,Bastian,,23795,Klein Gladebrügge,Deutschland
+01.01.20,1482,König,Elian,,9429,Wolkenstein,Deutschland
+01.01.20,1483,Walter,Lian,,54675,Mettendorf,Deutschland
+01.01.20,1484,Schmidt,Johann,,74549,Wolpertshausen,Deutschland
+01.01.20,1485,Becker,Romy,,23749,Grube,Deutschland
+01.01.20,1486,Wolf,Manuel,,39365,Harbke,Deutschland
+01.01.20,1487,Schmitt,Ali,,94164,Sonnen,Deutschland
+01.01.20,1488,Lang,Jette,,55585,Hochstätten,Deutschland
+01.01.20,1489,Jung,Ali,,67734,Katzweiler,Deutschland
+01.01.20,1490,Fuchs,Marla,,16831,Rheinsberg,Deutschland
+01.01.20,1491,Wagner,Lena,,83358,Seeon-Seebruck,Deutschland
+01.01.20,1492,Jung,Elli,,19300,Kremmin,Deutschland
+01.01.20,1493,Frank,Theo,,96479,Weitramsdorf,Deutschland
+01.01.20,1494,Hofmann,Jonte,,94065,Waldkirchen,Deutschland
+01.01.20,1495,Krüger,Julius,,56579,Rengsdorf,Deutschland
+01.01.20,1496,Peters,Nicolas,,71686,Remseck am Neckar,Deutschland
+01.01.20,1497,Müller,Annika,,19089,Demen,Deutschland
+01.01.20,1498,Schulz,Lia,,55599,Wonsheim,Deutschland
+01.01.20,1499,Schulz,Lenn,,52355,Düren,Deutschland
