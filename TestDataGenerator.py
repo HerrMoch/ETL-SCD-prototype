@@ -31,16 +31,23 @@ class TestDataGenerator:
         self.hour_closing = 18
 
     def change_data(self, test_datas: dict):
-        self.personal_DF = pd.read_csv(test_datas['personal'], header=0, usecols=['personal_code'])
-        self.personal_DF = self.personal_DF.dropna()
-        self.produkt_DF = pd.read_csv(test_datas['produkt'], header=0, usecols=['produkt_code',
-                                                                                'Verkaufspreis_Brutto',
-                                                                                'Verkaufspreis_MwSt'])
-        self.kunde_DF = pd.read_csv(test_datas['kunde'], header=0, usecols=['kunde_code'])
+        if 'personal' in test_datas.keys():
+            self.personal_DF = pd.read_csv(test_datas['personal'], header=0, usecols=['personal_code'])
+            self.personal_DF = self.personal_DF.dropna()
+            self.personal_count = self.personal_DF.shape[0]
 
-        self.produkt_count = self.produkt_DF.shape[0]
-        self.personal_count = self.personal_DF.shape[0]
-        self.kunde_count = self.kunde_DF.shape[0]
+        if 'produkt' in test_datas.keys():
+            self.produkt_DF = pd.read_csv(test_datas['produkt'], header=0, usecols=['produkt_code',
+                                                                                    'verkaufspreis_netto'])
+            # Hack, um die Verkaufspreisdaten zu vervollständigen, die aus der Datenbank ausgelesen wurden
+            self.produkt_DF['Verkaufspreis_Brutto'] = self.produkt_DF['verkaufspreis_netto']*1.19
+            self.produkt_DF['Verkaufspreis_MwSt'] = self.produkt_DF['verkaufspreis_netto']*0.19
+            self.produkt_DF = self.produkt_DF.drop('verkaufspreis_netto', axis=1)
+            self.produkt_count = self.produkt_DF.shape[0]
+
+        if 'kunde' in test_datas.keys():
+            self.kunde_DF = pd.read_csv(test_datas['kunde'], header=0, usecols=['kunde_code'])
+            self.kunde_count = self.kunde_DF.shape[0]
 
     def get_next_datetime(self, last_datetime) -> datetime:
         current_datetime = last_datetime
@@ -58,10 +65,10 @@ class TestDataGenerator:
 
         return current_datetime
 
-    def dump_data(self, rows) -> str:
+    def dump_data(self, rows_amount) -> str:
         current_date = self.current_date
         rows = []
-        for i in range(rows):
+        for i in range(rows_amount):
             new_row = []
             current_date = self.get_next_datetime(current_date)
             new_row.append(current_date.date().isoformat())

@@ -5,6 +5,7 @@ from sqlalchemy import ForeignKey
 
 
 class DatabaseMeta:
+    # Konstante LINESEPERATOR wird nur für die Ausgabe der Methode __check_tables benötigt.
     LINESEPERATOR = '-' * 40
 
     def __init__(self, database_path="sqlite:///test.db", verbose_mode=True):
@@ -48,7 +49,7 @@ class DatabaseMeta:
 
         self.DT_employee_table = Table("DT_Personal", self.metadata,
                                        Column('id', Integer, primary_key=True),
-                                       Column('personal_code', String),
+                                       Column('personal_code', String, nullable=False),
                                        Column('name', String),
                                        Column('vorname', String),
                                        Column('abteilung', String),
@@ -57,7 +58,7 @@ class DatabaseMeta:
 
         self.DT_client_table = Table("DT_Kunde", self.metadata,
                                      Column('id', Integer, primary_key=True),
-                                     Column('kunde_code', String),
+                                     Column('kunde_code', String, nullable=False),
                                      Column('name', String),
                                      Column('vorname', String),
                                      Column('firma', String),
